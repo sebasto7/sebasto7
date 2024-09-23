@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sebastian Molina.Obando, @sebasto7
-- 👀 I’m interested in how the brain works and keeps working while we age
-- 🌱 I’m currently learning how to better analyze big data coming from the brain of a fly and its behavior
+- 👋 Hi, I’m Sebastian Molina-Obando, a neuroscientist by training and educator by passion, @sebasto7
+- 👀 I’m interested in how the brain works and the impact on education
+- 🌱 I’m currently learning how to better analyze big data sets, from data mining until meaningful data visualization
 - 💞️ I’m looking to collaborate on many projects that requiered sharing data and anaylsis flows
 - 📫 You can rech me at any time by email: sebastian.molina.obando@gmail.com
 

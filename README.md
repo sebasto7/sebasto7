@@ -2,7 +2,7 @@
 - 👀 I’m interested in how the brain works and the impact on education
 - 🌱 I’m currently learning how to better analyze big data sets, from data mining until meaningful data visualization
 - 💞️ I’m looking to collaborate on many projects that requiered sharing data and anaylsis flows
-- 📫 You can rech me at any time by email: sebastian.molina.obando@gmail.com
+- 📫 You can rech me at any time by email: 
 
 <!---
 sebasto7/sebasto7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
